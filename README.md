@@ -2,6 +2,7 @@
 
 Responsive, English-language one-page website concept for a professional digital clear aligner treatment planning service aimed at dental practices in the United States.
 
+
 ## Preview locally
 
 1. Unzip the project folder.
